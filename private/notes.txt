@@ -9,4 +9,5 @@ corpus
 stemming
 euclidean distance fails for large data
 cosine distance comes into picute
+b
 
